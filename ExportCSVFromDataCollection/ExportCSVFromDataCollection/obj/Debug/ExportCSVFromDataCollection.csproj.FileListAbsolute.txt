@@ -1,0 +1,21 @@
+C:\Users\goscima\Desktop\workspace\cs\Blueprism\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.csprojAssemblyReference.cache
+C:\Users\goscima\Desktop\workspace\cs\Blueprism\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\goscima\Desktop\workspace\cs\Blueprism\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.exe.config
+C:\Users\goscima\Desktop\workspace\cs\Blueprism\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.exe
+C:\Users\goscima\Desktop\workspace\cs\Blueprism\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.pdb
+C:\Users\goscima\Desktop\workspace\cs\Blueprism\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.exe
+C:\Users\goscima\Desktop\workspace\cs\Blueprism\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.pdb
+C:\Users\adm.m.gosciniak\Desktop\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.exe.config
+C:\Users\adm.m.gosciniak\Desktop\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.exe
+C:\Users\adm.m.gosciniak\Desktop\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.pdb
+C:\Users\adm.m.gosciniak\Desktop\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.csprojAssemblyReference.cache
+C:\Users\adm.m.gosciniak\Desktop\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\adm.m.gosciniak\Desktop\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.exe
+C:\Users\adm.m.gosciniak\Desktop\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.pdb
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.exe.config
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.exe
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollection\ExportCSVFromDataCollection\bin\Debug\ExportCSVFromDataCollection.pdb
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.csprojAssemblyReference.cache
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.exe
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollection\ExportCSVFromDataCollection\obj\Debug\ExportCSVFromDataCollection.pdb

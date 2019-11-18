@@ -1,0 +1,11 @@
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\bin\Debug\ExportCSVFromDataCollectionVB.exe.config
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\bin\Debug\ExportCSVFromDataCollectionVB.exe
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\bin\Debug\ExportCSVFromDataCollectionVB.pdb
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\bin\Debug\ExportCSVFromDataCollectionVB.xml
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\obj\Debug\ExportCSVFromDataCollectionVB.vbprojAssemblyReference.cache
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\obj\Debug\ExportCSVFromDataCollectionVB.Resources.resources
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\obj\Debug\ExportCSVFromDataCollectionVB.vbproj.GenerateResource.cache
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\obj\Debug\ExportCSVFromDataCollectionVB.vbproj.CoreCompileInputs.cache
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\obj\Debug\ExportCSVFromDataCollectionVB.exe
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\obj\Debug\ExportCSVFromDataCollectionVB.xml
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\ExportCSVFromDataCollectionVB\obj\Debug\ExportCSVFromDataCollectionVB.pdb

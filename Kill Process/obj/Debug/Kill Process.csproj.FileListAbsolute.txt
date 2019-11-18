@@ -1,0 +1,9 @@
+C:\Users\adm.m.gosciniak\Desktop\workspace\Kill Process\bin\Debug\Kill Process.exe.config
+C:\Users\adm.m.gosciniak\Desktop\workspace\Kill Process\bin\Debug\Kill Process.exe
+C:\Users\adm.m.gosciniak\Desktop\workspace\Kill Process\bin\Debug\Kill Process.pdb
+C:\Users\adm.m.gosciniak\Desktop\workspace\Kill Process\obj\Debug\Kill Process.csprojResolveAssemblyReference.cache
+C:\Users\adm.m.gosciniak\Desktop\workspace\Kill Process\obj\Debug\Kill Process.exe
+C:\Users\adm.m.gosciniak\Desktop\workspace\Kill Process\obj\Debug\Kill Process.pdb
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\Kill Process\bin\Debug\Kill Process.exe.config
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\Kill Process\obj\Debug\Kill Process.exe
+C:\Users\adm.m.gosciniak\Desktop\workspace\BluePrism VBO\Kill Process\obj\Debug\Kill Process.pdb
